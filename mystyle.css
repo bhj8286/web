@@ -1,0 +1,70 @@
+h3 {
+    color: green;
+}
+
+p {
+    color: rgb(39, 216, 128);
+}
+
+
+/* #id 선택지 */
+#two {
+    color: blue;
+}
+
+/* .class 선택자 */
+.orange {
+    color: darkkhaki;
+}
+
+p.center {
+    text-align: center;
+}
+
+p#size {
+    font-size: 50px;
+}
+
+li {
+    color: blueviolet;
+    background-color: #ff0ff0;
+}
+
+ul.korean > li {
+    color: brown;
+    background-color: beige;
+}
+
+.box {
+    border: 2px solid red;
+    border-radius: 6px;
+
+    margin-top: 10px;
+    margin-left: 5px;
+
+    padding-top: 10px;
+
+    text-align: center;
+}
+
+
+.font {
+    font-family: Tangerine;
+}
+
+.d-inline {
+    display: inline;
+}
+
+.d-block {
+    display: block;
+}
+
+.d-none {
+    display: none;
+}
+
+.d-flex {
+    display: flex;
+    justify-content: space-around;
+}
