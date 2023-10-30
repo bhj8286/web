@@ -1,3 +1,13 @@
 .font {
     font-family: Tangerine;
 }
+
+h2 {
+    background-color: gold;
+    display: inline;
+    
+}
+
+.d-inline {
+    display: inline;
+}
